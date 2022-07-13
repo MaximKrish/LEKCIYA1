@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\lekcii\\lekciya1_260622\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\lekcii\\lekciya1_260622\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\lekcii\\lekciya1_260622\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\lekcii\\lekciya1_260622\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\lekcii\\lekciya1_260622\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User.DESKTOP-P0PUKOS\\AppData\\Roaming\\NuGet\\NuGet.Config"

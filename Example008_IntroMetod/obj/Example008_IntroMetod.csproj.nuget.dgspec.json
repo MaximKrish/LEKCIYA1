@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekcia_260622\\LEKCIYA1\\Example008_IntroMetod\\Example008_IntroMetod.csproj": {}
+    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example008_IntroMetod\\Example008_IntroMetod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekcia_260622\\LEKCIYA1\\Example008_IntroMetod\\Example008_IntroMetod.csproj": {
+    "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example008_IntroMetod\\Example008_IntroMetod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekcia_260622\\LEKCIYA1\\Example008_IntroMetod\\Example008_IntroMetod.csproj",
+        "projectUniqueName": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example008_IntroMetod\\Example008_IntroMetod.csproj",
         "projectName": "Example008_IntroMetod",
-        "projectPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekcia_260622\\LEKCIYA1\\Example008_IntroMetod\\Example008_IntroMetod.csproj",
+        "projectPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example008_IntroMetod\\Example008_IntroMetod.csproj",
         "packagesPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekcia_260622\\LEKCIYA1\\Example008_IntroMetod\\obj\\",
+        "outputPath": "C:\\Users\\User.DESKTOP-P0PUKOS\\Desktop\\обучение GeekBrains\\Знакомство с языками программирования (лекции)\\Lekcii\\Lekciya1\\Example008_IntroMetod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User.DESKTOP-P0PUKOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
